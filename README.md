@@ -1,0 +1,2 @@
+# copyrightfingercompare
+从idea将本地项目上传到github，项目的是做版权比对的
