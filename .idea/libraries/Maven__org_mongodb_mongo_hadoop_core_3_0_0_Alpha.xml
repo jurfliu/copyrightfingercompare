@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mongodb:mongo-hadoop-core:3.0.0-Alpha">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-hadoop-core/3.0.0-Alpha/mongo-hadoop-core-3.0.0-Alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-hadoop-core/3.0.0-Alpha/mongo-hadoop-core-3.0.0-Alpha-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-hadoop-core/3.0.0-Alpha/mongo-hadoop-core-3.0.0-Alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
